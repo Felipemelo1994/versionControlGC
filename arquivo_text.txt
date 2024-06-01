@@ -4,3 +4,5 @@ Integrando o repositório local como remoto
 Adicionando conteúdo nesse arquivo já existente
 
 Adicionando uma nova modificação no arquivo.
+
+Adicinando uma nova modificação apartir da branch local.
